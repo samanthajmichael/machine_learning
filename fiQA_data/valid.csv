@@ -1,0 +1,118 @@
+_id,sentence,target,aspect,score,type
+52,Passengers rise at EasyJet and Aer Lingus,EasyJet,Corporate/Sales/Sales,0.329,headline
+55,Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale,Blinkbox,Corporate/Strategy,-0.195,headline
+55,Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale,Tesco,Corporate/Strategy,-0.335,headline
+56,"FDA approves NPS drug, in move validating Shire takeover deal",Shire,Corporate/M&A/Proposed Merger,0.332,headline
+60,Ocwen Reaches Settlement With California Regulator,Ocwen,Corporate/Legal/Settlement,0.171,headline
+499,S&P downgrades Barclays and RBS on government bailout fears,RBS,Stock/Coverage/AnalystRatings/downgrade,-0.53,headline
+502,Irish housebuilder Cairn Homes plans London listing,Cairn Homes,Stock/IPO,0.189,headline
+507,Arm slammed by handset sales outlook,Arm,Corporate/Sales,-0.41,headline
+511,CompaniesLSE adds ex-SEC head Schapiro to board,LSE,Corporate/Appointment,0.076,headline
+512,Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls,Tesco,Corporate/Sales/Sales,-0.41,headline
+516,FTSE 100 flat; Standard Chartered leads risers,Standard Chartered,Stock/Price Action,0.589,headline
+517,CompaniesHoward Davies appointment as RBS director delayed,RBS,Corporate/Appointment,-0.025,headline
+519,Keith Skeoch to step up as David Nish quits as chief executive of Standard Life,Standard Life,Corporate/Appointment,-0.09,headline
+520,Dixons Carphone profit boost on strong sales,Dixons Carphone,Corporate/Sales,0.478,headline
+521,"FTSE rallies off three-month low, boosted by StanChart, Sainsbury",Sainsbury,Stock/Price Action,0.334,headline
+521,"FTSE rallies off three-month low, boosted by StanChart, Sainsbury",StanChart,Market/Market/Market Outlook,0.465,headline
+530,"Royal Mail, Johnson Matthey lead FTSE lower",Royal Mail,Market/Market/Market Trend,-0.438,headline
+539,Sainsbury sales slip again as price pressures take a toll,Sainsbury,Stock/Price Action,-0.303,headline
+540,Sophos aims to raise $100m in London IPO,Sophos,Stock/IPO,0.214,headline
+541,UPDATE 3-Stifel to buy former Lehman brokerage from Barclays,Lehman,Corporate/M&A/Proposed Merger,0.164,headline
+545,Borealis Infrastructure putting together new Severn Trent bid,Severn Trent,Corporate/M&A/Proposed Merger,0.214,headline
+546,"FTSE falls to 3-month low on Greek debt concerns, easyJet skids",easyjet,Corporate/Risks,-0.414,headline
+547,Johnson Matthey share price slumps as company posts full-year results,Johnson Matthey,Stock/Price Action,-0.626,headline
+548,UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee,Lehman,Corporate/Legal/Settlement,0.239,headline
+548,UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee,Barclays,Corporate/Legal,0.199,headline
+552,Petrofac books further Â£30m cost for Shetland gas terminal delays,Petrofac,Corporate/Risks,-0.343,headline
+553,Petrofac share price rises despite Â£30m costs on North Sea project,Petrofac,Stock/Price Action,0.09,headline
+554,Whitbread boss Andy Harrison defends sales fall as 'just a blip',Whitbread,Corporate/Sales,-0.1,headline
+555,Barclays share price subdued as bank faces fresh forex probe,Barclays,Stock/Price Action,-0.373,headline
+556,CompaniesActelion shares hit record on Shire takeover talk,Actelion,Corporate/Rumors,0.721,headline
+556,CompaniesActelion shares hit record on Shire takeover talk,Shire,Corporate/Rumors/Rumors,0.345,headline
+563,LSE gets Hong Kong regulatory nod to HK firms to become LSE members,LSE,Corporate/Regulatory,0.247,headline
+573,Diageo Shares Surge on Report of Possible Takeover by Lemann,Lemann,Stock/Technical Analysis/Trend/Trending up,0.415,headline
+576,RBS chairman admits surprise at size of regulatory penalties,RBS,Corporate/Regulatory,-0.333,headline
+584,RSA Insurance Hires Towergate's Egan as Chief Financial Officer,Towergate,Corporate/Appointment/Executive Appointment,0.002,headline
+590,Johnson Matthey raises prospect of investor payout,Johnson Matthey,Corporate/Dividend Policy,0.281,headline
+593,InterContinental Hotels Denies Reports of Starwood Merger Talks,Starwood,Corporate/Rumors/Scoop,-0.078,headline
+594,REFILE-Hikma and Barclays help Britain's FTSE to climb higher,Hikma,Market/Market/Market Trend,0.452,headline
+601,FDA Approves AstraZeneca's Iressa As Lung Cancer Treatment,AstraZeneca,Corporate/Regulatory,0.42,headline
+602,AstraZeneca suffers setback after drug fails to treat eye cancer,AstraZeneca,Corporate/Risks,-0.392,headline
+613,British American Tobacco first-half sales hurt by currency moves,British American Tobacco,Market/Currency,-0.346,headline
+614,Zurich Insurance Considering Offer for UK Rival RSA Insurance,Zurich Insurance,Corporate/Rumors/Rumors,0.25,headline
+616,Japan's Nikkei lands Financial Times in $1.3 billion deal,Nikkei,Corporate/Sales/Deal,0.262,headline
+622,"Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",UBS,Corporate/Legal/Lawsuit,-0.281,headline
+622,"Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",HSBC,Corporate/Legal/Lawsuit,-0.251,headline
+622,"Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",Coutts,Corporate/Legal/Lawsuit,-0.248,headline
+624,UPDATE 1-AstraZeneca sells rare cancer drug to Sanofi for up to $300 mln,Sanofi,Corporate/Sales/Deal,0.258,headline
+627,Sainsbury sells unit to LloydsPharmacy,Sainsbury,Corporate/Sales/Deal,0.234,headline
+632,BAE Systems's sales boosted by European Typhoon and currencies,BAE Systems,Corporate/Sales,0.39,headline
+634,"Royal Mail 'breached competition law' over delivery service changes, Ofcom claims",Royal Mail,Corporate/Legal,-0.315,headline
+17425,@REC_Zakaria Monday Bulls Are Out! Stock Ticker- Michael James Ent. Other picks $SBUX $GVP $NKE,SBUX,Stock/Price Action/Bearish/Bearish Behavior,0.457,post
+17431,#Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP,TSLA,Corporate/Risks/Product Recall,-0.267,post
+17436,Microsoft joins the open-source Eclipse Foundation https://t.co/z8G5cZaKeU focus on collaboration & open business is a smart strategy! $MSFT,MSFT,Corporate/Strategy,0.26,post
+17437,"Sudden optimism about iPhone sales (i.e., not as bad as expected) gives Apple $AAPL a lift.  https://t.co/oKTCw4YiB5",AAPL,Corporate/Sales,0.279,post
+17446,$NFLX +1% $104.80 LONG streaming services rapidly outpacing traditional cable,NFLX,Stock/Price Action/Bullish/Bullish Behavior,0.571,post
+17453,Infection worries prompt regulatory reviews of Gilead leukaemia drug $GILD https://t.co/H9vqXpZ15G via @YahooFinance,GILD,Corporate/Regulatory,-0.401,post
+17455,Preparing for a Breakout Trade in Netflix $NFLX  https://t.co/CzHIX3tuAG $$ https://t.co/z1qb9xa4LD,NFLX,Stock/Technical Analysis/Breakout,0.358,post
+17457,"$CTRP just broke resistance, watching for a #redtogreen #breakout right out of the gate tomorrow morning. #stocks https://t.co/8VXFUUIt04",CTRP,Stock/Technical Analysis,0.598,post
+17471,Deutsche Bank cuts $SBUX,SBUX,Stock/Coverage/AnalystRatings/Downgrade,-0.539,post
+17477,"Fastenal misses by $0.01, misses on revenue $FAST #NYSE https://t.co/63JHQ7pwMN",FAST,Corporate/Financial/Financial Results,-0.374,post
+17508,$TSLA recall,TSLA,Corporate/Risks/Product Recall,-0.227,post
+17512,Piper upgrades Symantec on improving renewal rates and enterprise growth $SYMC,SYMC,Stock/Coverage/AnalystRatings/Upgrade,0.525,post
+17514,#FusionIQ NEW Positive Timing Signal on $SBUX Today https://t.co/9ImlXz4YNa Please Retweet #Signals,SBUX,Stock/Signal/Buy Signal,0.341,post
+17525,#LongPos $TSLA 256 Break-out thru 50 & 200- DMA (197-230) upper head res (274-279) Short squeeze in progress Nr term obj: 310 Stop loss:239,TSLA,Stock/Technical Analysis,0.504,post
+17539,Starbucks' Digital Strategy To Drive Significant Growth With Customer Loyalty https://t.co/9Q7cI79IYO $SBUX,SBUX,Corporate/Strategy,0.335,post
+17542,Apple: Another attempt to break out on Apple but with weak PVT   $AAPL #Trading #investing #aapl https://t.co/DNh7Hgv22V,AAPL,Stock/Price Action,0.138,post
+17555,$ISRG Break out confirmed. Bought Leaps. Good trading!,ISRG,Stock/Technical Analysis/Breakout,0.36,post
+17558,"@sharkbiotech If anyone is selling/shorting $AGN b/c you believe $ENDP rumors to be realistic, then I'll take the other side of that trade",ENDP,Corporate/Rumors,0.422,post
+17562,$FB & $TSLA cracking lower early. $short #correction #stocks,TSLA,Stock/Price Action/Bearish/Bearish Behavior,-0.511,post
+17590,Today I bought more $MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA https://t.co/Vt6T5Zp2is,ZNGA,Stock/Price Action/Bullish/Bull Position,0.248,post
+17591,Hard to find new buyers of $TSLA at 250.  Shorts continue to pile in.,TSLA,Stock/Price Action/Volatility/Short Selling,-0.373,post
+17631,"$AMZN trades in mid to upper range. No break out yet, either direction",AMZN,Stock/Price Action,0.059,post
+17636,$TSLA announces a recall and the stock doesn't sell off. This stock is teflon. Won't last forever.,TSLA,Corporate/Risks/Product Recall,0.213,post
+17637,$NFLX and $TSLA making all kinds of gains 📈,TSLA,Stock/Price Action/Bullish/Bullish Behavior,0.42,post
+17638,"@TraceyRyniec not just energy, it's so broad. You will see it in WWG and Kaman as well. I'd be short $fast",FAST,Stock/Price Action/Bearish,-0.625,post
+17669,$AAPL Goldman Sachs reiterates conviction buy on Apple with a $155 PT $SPY $DJIA $GS https://t.co/h5hmXSITwM,SPY,Stock/Coverage/AnalystRatings/Upgrade,0.335,post
+17670,Tesla issues its first Model X recall https://t.co/t1kMqVwhQQ $TSLA,TSLA,Corporate/Risks/Product Recall,-0.287,post
+17671,$ENDP being sued by FTC.....nobody will buy them with that hanging over their heads,ENDP,Corporate/Legal/Lawsuit,-0.602,post
+17688,$TSLA weakest in todays DT watchlist,TSLA,Stock/Price Action/Bearish,-0.383,post
+17692,"$TSLA on fire, what is that 6 up days in a row. Someone neeeeds!! in",TSLA,Stock/Price Action/Bullish,0.452,post
+17724,$GILD chart: With $IBB back over support. https://t.co/GpRZ2UJFC4,IBB,Stock/Technical Analysis,0.362,post
+17729,"$KNDI #China #ElectricCar maker. China car sales +7.8%. Also, may feed off $TSLA momentum run lately.",TSLA,Corporate/Sales,0.225,post
+17732,"took some $ENDP long this am, using VWAP as guide",ENDP,Corporate/Technical Analysis,0.613,post
+17733,"maybe closing all those $AAPL calls i had this morning was a bad idea, money left on the table...",AAPL,Stock/Options,0.501,post
+17758,$AAPL weekly still under the 50 moving average and creating a lower high. https://t.co/vT7ppzY2UY,AAPL,Stock/Price Action/Bearish/Bearish Behavior,-0.215,post
+17759,"Intuitive Surgical $ISRG is in a great financial position, take a look https://t.co/VahhJAcBFG https://t.co/24hQTQX4ou",ISRG,Corporate/Financial,0.406,post
+17764,$NFLX I say it's time to short at this point.,NFLX,Stock/Price Action/Volatility/Short Selling,-0.489,post
+17773,$TSLA upgraded to Buy @ Argus w/ $333 PT - you'd almost think after ~100pt run in 5 weeks this would be the sell signal,TSLA,Stock/Coverage/AnalystRatings/Upgrade,0.349,post
+17780,$FB slight green... May be runner later,FB,Stock/Price Action/Bullish,0.328,post
+17784,"$AAPL Stock Climbs as Barron's Sees 40% Upside, Jim Cramer's Take  https://t.co/lKlD9mVKBQ",AAPL,Stock/Coverage/AnalystRatings/Upgrade,0.517,post
+17793,"Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs",TSLA,Corporate/Risks/Product Recall,-0.31,post
+17794,Juniper tumbles on Q1 warning; Cisco also lower $JNPR $CSCO https://t.co/bGvIntk43h,JNPR,Corporate/Financial/Financial Results/Earnings/Profit Warning,-0.366,post
+17798,"$ATVI ooks pretty bullish for now. from a short-term perspective, it's got a good chance of maybe sliding back to 33.70 #stocks #investing",ATVI,Stock/Price Action/Bullish,0.323,post
+17805,$CTRP  breaking out here on good vol and a parser buy signal  ..noticed this on bob langs comments looking for 48 fast,CTRP,Stock/Price Action/Bullish/Bullish Behavior,0.418,post
+17807,"78 users on Vetr are bearish on Tesla Motors, Inc., indicating a SELL Rating (2 stars) for $TSLA https://t.co/vVpzqCXsNJ",TSLA,Stock/Coverage/AnalystRatings/Downgrade,-0.485,post
+17822,4 beaten-down Internet companies that may be ripe for a #takeover target: #Twitter $TWTR - #LinkedIn $LNKD - #Yahoo! $YHOO - #Groupon $GRPN,YHOO,Corporate/M&A,0.129,post
+17823,"$STX long play, another consistent profit zone.. check it out https://t.co/DQfuzOzYlh https://t.co/ggne4ayzqn",STX,Stock/Price Action/Bullish/Bullish Behavior,0.48,post
+17831,"$FB trend, hits mid 110's and drops",FB,Stock/Price Action/Bearish/Bearish Behavior,-0.343,post
+17833,$PCLN Trying to break daily trend line! Big move could happen https://t.co/gY0aDb2jsQ https://t.co/KPBBCgQ2xy,PCLN,Stock/Price Action,0.485,post
+17840,$FB I've been dead on so far. Such a bloated valuation. https://t.co/czCf8Kbrlt,FB,Stock/Fundamentals,-0.536,post
+17845,$TSLA recall model X https://t.co/b7izYa4BuE,TSLA,Corporate/Risks/Product Recall,-0.347,post
+17851,"$TSLA Recalls 2,700 Model X Vehicles; Shares Volatile https://t.co/tcKqZnMIqX #TSLA #tech #stockmarket https://t.co/FeMhJtAmQj",TSLA,Corporate/Risks/Product Recall,-0.336,post
+17856,Breaking: Tesla recalls all Model X cars  .. details on show now $TSLA,TSLA,Corporate/Risks/Product Recall,-0.308,post
+17858,"$QCOM The indicator RSI is over 50, which stands at 56.1, an upward movement is expected. https://t.co/yfa9jcUsQa",QCOM,Stock/Technical Analysis,0.387,post
+17866,Supermarket Stocks Rally as Tesco Plans to Axe Non-core UK Assets $TSCO https://t.co/BmvhcrwREA,TSCO,Stock/Price Action/Bullish/Bullish Behavior,0.248,post
+17869,$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66,TRIP,Stock/Coverage/AnalystRatings,-0.019,post
+17903,Why Alphabet Inc was just upgraded to buy https://t.co/dEVnLKhqtZ $GOOGL,GOOGL,Stock/Coverage/AnalystRatings/Upgrade,0.465,post
+17909,@NASDboy I think the DNF crew can get this $NFLX short into the next 30 days heading into earnings,NFLX,Stock/Price Action/Bearish/Bearish Behavior,-0.308,post
+17925,Added more $BBBY @jimcramer is wrong about this one. Still a very profitable merchant with profitable stores,BBBY,Stock/Price Action/Bullish/Bull Position,0.557,post
+17952,Added long at friday close  $SPY $LABU $BLUE $AMZN,SPY,Stock/Price Action/Bullish/Bull Position,0.513,post
+17956,"Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies https://t.co/j35FNnx744 $AAPL #APPLE $AXP $BAC",BAC,Stock/Coverage/AnalystRatings/Downgrade,-0.513,post
+17962,long $SDLP $CPGX $TWTR $BITA $LABU $FB $TSLA $ETE $SDRL  Autocharts @ https://t.co/nxLx1ES7nY,TWTR,Stock/Price Action/Bullish/Bull Position,0.488,post
+17977,Costco: A Premier Retail Dividend Play https://t.co/J3UhTs022M $COST,COST,Corporate/Dividend Policy,0.463,post
+17994,Pivotal Research upgrading $GOOGL to buy.  https://t.co/LSahepdqhD    #stocktrading,GOOGL,Stock/Coverage/AnalystRatings/Upgrade,0.512,post
+18003,Most bullish stocks on Twitter during this dip. $YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY more: https://t.co/iuZJelfwt3,YHOO,Stock/Price Action/Bullish,0.408,post
+18010,$TSLA <STUDY the CHARTS> Pullback_Time https://t.co/ZMDG0fb3I7,TSLA,Stock/Technical Analysis,-0.3,post
+18011,#Tesla Model S deliveries are up 35% in Germany - record deliveries in March [Chart] https://t.co/yCnClcBImV  $TSLA,TSLA,Corporate/Sales,0.365,post
